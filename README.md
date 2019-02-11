@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/a/Iwc7020' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](cs490-favretweet.gif)
 
